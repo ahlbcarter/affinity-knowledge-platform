@@ -1,0 +1,18 @@
+ID,Name,Type,Status,Priority,Owner,Channels,Sprint,Review Cadence,Review Date,Notes
+COMP-001,Affinity Home Lending,Company,in_review,critical,Leadership,Website;Google Business Profile;AI;Internal,Sprint 1 - GBP,Quarterly,2026-09-24,Primary company entity
+PROJ-001,Google Business Profile Foundation,Project,in_review,critical,Barry Carter,Google Business Profile;Website;AI,Sprint 1 - GBP,Monthly,2026-07-24,Sprint 1 objective
+PROG-001,First-Time Home Buyer Mortgage,Mortgage Solution,in_review,critical,Marketing,Website;Google Business Profile;Social;Email;Video;Flyer;AI,Sprint 1 - GBP,Quarterly,2026-09-24,First vertical slice
+PROG-002,Conventional Mortgage Loan,Mortgage Solution,idea,critical,Marketing,Website;Google Business Profile;Social;Email;Video;Flyer;AI,Sprint 1 - GBP,Quarterly,2026-09-24,
+PROG-003,FHA Mortgage Loan,Mortgage Solution,idea,critical,Marketing,Website;Google Business Profile;Social;Email;Video;Flyer;AI,Sprint 1 - GBP,Quarterly,2026-09-24,
+PROG-004,VA Mortgage Loan,Mortgage Solution,idea,critical,Marketing,Website;Google Business Profile;Social;Email;Video;Flyer;AI,Sprint 1 - GBP,Quarterly,2026-09-24,
+PROG-005,USDA Mortgage Loan,Mortgage Solution,idea,high,Marketing,Website;Google Business Profile;Social;Email;Video;Flyer;AI,Sprint 1 - GBP,Quarterly,2026-09-24,
+PROG-006,Jumbo Mortgage Loan,Mortgage Solution,idea,high,Marketing,Website;Google Business Profile;Social;Email;Video;Flyer;AI,Sprint 1 - GBP,Quarterly,2026-09-24,
+PROG-007,Down Payment Assistance,Mortgage Solution,idea,high,Marketing,Website;Google Business Profile;Social;Email;Video;Flyer;AI,Sprint 1 - GBP,Quarterly,2026-09-24,
+PROG-008,Mortgage Refinance,Mortgage Solution,idea,high,Marketing,Website;Google Business Profile;Social;Email;Video;Flyer;AI,Sprint 1 - GBP,Quarterly,2026-09-24,
+PROG-009,Cash-Out Refinance,Mortgage Solution,idea,critical,Marketing,Website;Google Business Profile;Social;Email;Video;Flyer;AI,Sprint 1 - GBP,Quarterly,2026-09-24,
+PROG-010,Investment Property Financing,Mortgage Solution,idea,high,Marketing,Website;Google Business Profile;Social;Email;Video;Flyer;AI,Sprint 1 - GBP,Quarterly,2026-09-24,
+PROG-011,DSCR Investment Property Loan,Mortgage Solution,idea,high,Marketing,Website;Google Business Profile;Social;Email;Video;Flyer;AI,Sprint 1 - GBP,Quarterly,2026-09-24,
+PROG-012,Self-Employed Mortgage Solutions,Mortgage Solution,idea,high,Marketing,Website;Google Business Profile;Social;Email;Video;Flyer;AI,Sprint 1 - GBP,Quarterly,2026-09-24,
+PROG-013,Bank Statement Mortgage Loan,Mortgage Solution,idea,high,Marketing,Website;Google Business Profile;Social;Email;Video;Flyer;AI,Sprint 1 - GBP,Quarterly,2026-09-24,
+PROG-014,Doctor Mortgage Program,Mortgage Solution,idea,high,Marketing,Website;Google Business Profile;Social;Email;Video;Flyer;AI,Sprint 1 - GBP,Quarterly,2026-09-24,
+PROG-015,Home Equity Solutions,Mortgage Solution,idea,high,Marketing,Website;Google Business Profile;Social;Email;Video;Flyer;AI,Sprint 1 - GBP,Quarterly,2026-09-24,
